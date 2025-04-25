@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello and welcome to my profile! 👋
 
-<!--
-**makeyouswag/makeyouswag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitrii. I specialize in Python software development. Primarily work with Django and have some expertise in aiohttp & FastAPI. 
 
-Here are some ideas to get you started:
+Here are some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enjoy philosophy and psychology
+- Creative and open-minded
+- Extremely communicative and adventurous
+
+---
+
+## My stack:
+
+- Django + DRF + Django ORM + Django Admin + Django Unfold
+- FastAPI/aiohttp + SQLAlchemy + FastAdmin
+- Celery
+
+---
+
+## My stats
+[![Codewarrior Profile Badges](https://www.codewars.com/users/makeyouswag/badges/large)](https://www.codewars.com/users/makeyouswag)
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=makeyouswag&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeyouswag&layout=compact" />
+</a>
+</div>
