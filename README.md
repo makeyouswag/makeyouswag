@@ -2,12 +2,6 @@
 
 My name is Dmitrii. I specialize in Python software development. Primarily work with Django and have some expertise in aiohttp & FastAPI. 
 
-Here are some facts about me:
-
-- Enjoy philosophy and psychology
-- Creative and open-minded
-- Extremely communicative and adventurous
-
 ---
 
 ## My stack:
