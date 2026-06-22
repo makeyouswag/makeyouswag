@@ -25,4 +25,4 @@ My name is Dmitrii. I specialize in Python software development. Primarily work 
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/cucumber_coo1) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:zavorotnii.dr@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/cucumber_coo1)
